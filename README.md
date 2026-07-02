@@ -25,13 +25,11 @@ My engineering interests include:
 
 - Cloud Infrastructure Engineering  
 - Cloud Security & Zero Trust Architecture  
-- Network Security & VPN Infrastructure  
+- Network Security  
 - Infrastructure Automation  
 - DevSecOps  
 - Site Reliability Engineering (SRE)  
 - AI Security & Secure AI Operations  
-
-I enjoy building systems that are **secure, observable, resilient, and production-ready**.
 
 ---
 
@@ -46,37 +44,34 @@ I enjoy building systems that are **secure, observable, resilient, and productio
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## Security & Infrastructure Skills
 
-- Cloud Security  
-- IAM & Access Control  
+- Cloud Security
+- Incident response 
+- IAM, Entra ID & Access Control  
 - Zero Trust Security  
-- Infrastructure Hardening  
-- Secure Network Architecture  
+- Secure Infrastructure 
+- Network Security 
 - Security Monitoring  
 - Vulnerability Management  
 - AI Security Hygiene  
 - Risk Mitigation  
-- Incident Response Support  
 
 ---
 
 ##  Networking & Cloud Infra
 
 - Virtual Networks / VPC  
-- VPN (Site-to-Site & Point-to-Site)  
+- VPN (OpenVPN / Fortinet)  
 - Load Balancing  
 - Application Delivery  
 - DNS  
-- Firewalls  
-- Network Segmentation  
-- Reverse Proxy  
+- Firewalls (Fortinet / Palo Alto)    
 - Hybrid Connectivity  
-- High Availability Architecture  
+- Highly Available Architecture  
 - Disaster Recovery  
 
 ---
@@ -85,27 +80,18 @@ I enjoy building systems that are **secure, observable, resilient, and productio
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-### Tools
-- CI/CD Pipelines  
-- Infrastructure Automation  
-- Deployment Engineering  
-- Configuration Management  
-- Release Engineering  
 
 ---
 
 ##  Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ---
 
@@ -130,16 +116,10 @@ I enjoy building systems that are **secure, observable, resilient, and productio
 - Reliability Engineering  
 
 ---
-
-## 🔍 Security & Quality Tools
-
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
----
-
 ##  Web / Infra Services
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
@@ -150,15 +130,13 @@ I enjoy building systems that are **secure, observable, resilient, and productio
 
 ---
 
-## 🏗️ Current Focus
+##  Current Focus
 
 - Advanced Azure Infrastructure Engineering  
 - Cloud Security Engineering  
 - GCP Production Architectures  
-- DevSecOps Automation  
-- Kubernetes Security  
+- DevSecOps Automation   
 - AI Security Engineering  
-- Large Scale System Design  
 
 ---
 
