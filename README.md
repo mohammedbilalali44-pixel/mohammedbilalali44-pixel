@@ -68,7 +68,6 @@ My engineering interests include:
 - VPN (OpenVPN / Fortinet)  
 - Load Balancing  
 - Application Delivery  
-- DNS  
 - Firewalls (Fortinet / Palo Alto)    
 - Hybrid Connectivity  
 - Highly Available Architecture  
