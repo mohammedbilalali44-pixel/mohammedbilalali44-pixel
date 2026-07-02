@@ -33,7 +33,7 @@ My engineering interests include:
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 - LinkedIn: www.linkedin.com/in/mohammed-bilal-ali-593749364
 - Email: mohammedbilalali44@gmail.com
