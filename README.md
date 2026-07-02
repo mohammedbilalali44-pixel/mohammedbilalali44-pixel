@@ -30,14 +30,6 @@ My engineering interests include:
 - DevSecOps  
 - Site Reliability Engineering (SRE)  
 - AI Security & Secure AI Operations  
-
----
-
-##  Connect With Me
-
-- LinkedIn: www.linkedin.com/in/mohammed-bilal-ali-593749364
-- Email: mohammedbilalali44@gmail.com
-
 ---
 
 ##  Cloud Platforms
@@ -119,7 +111,7 @@ My engineering interests include:
 
 ---
 
-##  Reach Me
+##  Connect with Me
 
  📧 mohammedbilalali44@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/mohammed-bilal-ali-593749364
