@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi, I'm Mohammed Bilal Ali</h1>
 <h3 align="center">Cloud Infrastructure & Security Engineer | Azure | GCP | DevSecOps | AI Security</h3>
 
